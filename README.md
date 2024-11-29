@@ -1,8 +1,8 @@
 <h1>Hi, I'm Shaun Rolph! <br/><a href="https://www.linkedin.com/in/shaun-rolph-79692b74/">Data Scientist</a>
 <h2>👨‍💻 Data Science Projects and Work Porfolio:</h2>
 
-- <b>Background Information and Life Picture Collage of my Life</b>
-  - [Life and Pictures Repo](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Background On my Life and Collage</b>
+  - [Life and Collage Repo](https://github.com/joshmadakor1/EncrypterPOC)
   - [Bryant University Student Success Story](https://bryantcareer.wordpress.com/2016/03/24/shaun-rolphs-climb-to-the-top/)
   - [Georgetown University Profile](https://ghd.georgetown.edu/profile/shaun-rolph/)
 - <b>Data Visualization Project and Dashboards (Tableau, Power BI, and Python)</b>
