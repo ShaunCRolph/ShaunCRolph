@@ -1,5 +1,5 @@
 <h1>Hi, I'm Shaun Rolph! <br/><a href="https://www.linkedin.com/in/shaun-rolph-79692b74/">Data Scientist</a>
-<h2>👨‍💻 Data Science Prjects and Work Porfolio:</h2>
+<h2>👨‍💻 Data Science Projects and Work Porfolio:</h2>
 
 - <b>Data Visualization Project and Dashboards (Tableau, Power BI, and Python)</b>
   - [Dashboard and Visualizations Repo](https://github.com/joshmadakor1/Algorithms-Practice)
