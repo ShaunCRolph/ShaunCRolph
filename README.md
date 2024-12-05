@@ -14,7 +14,7 @@
   - [RIPEC 2016 Rhode Island Budget Analysis Publication](https://www.ripec.org/pdfs/2016_Debt-and-Bond.pdf)
   - [Corruption’s Impact on Government Health and Education Expenditures Publication](https://digitalcommons.bryant.edu/eeb/vol10/iss1/14/)
 - <b>Python Projects and Code Samples</b>
-  - [Work Science Training Course Repo](https://github.com/ShaunCRolph/Work-Science-Training-Course-Repo)
+  - [Data Science Training Course Repo](https://github.com/ShaunCRolph/Data-Science-Training-Course-Repo)
   - [AI and Other Projects Repo ](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 
