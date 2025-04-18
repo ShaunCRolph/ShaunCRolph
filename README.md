@@ -3,7 +3,6 @@
 
 - <b>Background On my Life and Picture Collage</b>
   - [Life Narrative Repo](https://github.com/ShaunCRolph/Life-Narrative.git)
-  - [Bryant University Student Success Story](https://bryantcareer.wordpress.com/2016/03/24/shaun-rolphs-climb-to-the-top/)
   - [Georgetown University Profile](https://ghd.georgetown.edu/profile/shaun-rolph/)
 - <b>Data Visualization Projects and Dashboards (Tableau, Power BI, and Python)</b>
   - [Dashboard and Visualizations Repo](https://github.com/ShaunCRolph/Dashboard-and-Visualizations-Repo)
