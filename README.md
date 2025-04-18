@@ -13,7 +13,7 @@
   - [Writing Sample Repo](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [RIPEC 2016 Rhode Island Budget Analysis Publication](https://www.ripec.org/pdfs/2016_Debt-and-Bond.pdf)
   - [Corruption’s Impact on Government Health and Education Expenditures Publication](https://digitalcommons.bryant.edu/eeb/vol10/iss1/14/)
-  - [LAMP_Report_to_Congress]([https://digitalcommons.bryant.edu/eeb/vol10/iss1/14/](https://www.ams.usda.gov/sites/default/files/media/LAMP_Report_to_Congress.pdf))
+  - [LAMP Report to Congress](https://www.ams.usda.gov/sites/default/files/media/LAMP_Report_to_Congress.pdf)
 - <b>Python Projects and Code Samples</b>
   - [Data Science Training Course Repo](https://github.com/ShaunCRolph/Data-Science-Training-Course-Repo)
   - [AI and Other Projects Repo ](https://github.com/ShaunCRolph/AI-and-Other-Projects-Repo.git)
