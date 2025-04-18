@@ -15,6 +15,6 @@
   - [Corruption’s Impact on Government Health and Education Expenditures Publication](https://digitalcommons.bryant.edu/eeb/vol10/iss1/14/)
 - <b>Python Projects and Code Samples</b>
   - [Data Science Training Course Repo](https://github.com/ShaunCRolph/Data-Science-Training-Course-Repo)
-  - [AI and Other Projects Repo ](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [AI and Other Projects Repo ](https://github.com/ShaunCRolph/AI-and-Other-Projects-Repo.git)
 
 
