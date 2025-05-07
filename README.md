@@ -17,4 +17,4 @@
   - [Data Science Training Course Repo](https://github.com/ShaunCRolph/Data-Science-Training-Course-Repo)
   - [AI and Other Projects Repo ](https://github.com/ShaunCRolph/AI-and-Other-Projects-Repo.git)
 
-
+Questions or feedback? Ping me on [LinkedIn](https://www.linkedin.com/in/shaun-rolph-79692b74/).
