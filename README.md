@@ -1,7 +1,7 @@
 <h1>Hi, I'm Shaun Rolph! <br/><a href="https://www.linkedin.com/in/shaun-rolph-79692b74/">Data Scientist</a>
 <h2>👨‍💻 Data Science Projects and Work Porfolio:</h2>
 
-- <b>Background On my Life and Picture Collage</b>
+- <b>Resume and cover Letter</b>
   - [Life Narrative Repo](https://github.com/ShaunCRolph/Life-Narrative.git)
   - [Georgetown University Profile](https://ghd.georgetown.edu/profile/shaun-rolph/)
 - <b>Data Visualization Projects and Dashboards (Tableau and Power BI)</b>
