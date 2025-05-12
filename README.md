@@ -2,8 +2,8 @@
 <h2>👨‍💻 Data Science Projects and Work Porfolio:</h2>
 
 - <b>Resume and cover Letter</b>
-  - [Life Narrative Repo](https://github.com/ShaunCRolph/Life-Narrative.git)
-  - [Georgetown University Profile](https://ghd.georgetown.edu/profile/shaun-rolph/)
+  - [Resume](https://github.com/ShaunCRolph/Life-Narrative/blob/main/SRolphResume.pdf)
+  - [Cover Letter](https://github.com/ShaunCRolph/Life-Narrative/blob/main/SRolph%20Cover%20Letter.pdf)
 - <b>Data Visualization Projects and Dashboards (Tableau and Power BI)</b>
   - [Dashboards and Visualizations Repo](https://github.com/ShaunCRolph/Dashboard-and-Visualizations-Repo)
   - [Interactive LAMP Grant Programs Navigator Public Dashboard](https://publicdashboards.dl.usda.gov/t/MRP_PUB/views/LAMPNavigator_17084589181540/AwardDashboard?%3Aembed=y&%3Aiid=1&%3AisGuestRedirectFromVizportal=y)
