@@ -19,4 +19,4 @@
 
 
 
-Questions or feedback? Ping me on [LinkedIn](https://www.linkedin.com/in/shaun-rolph-79692b74/).
+Questions or feedback? Throw a message my way on [LinkedIn](https://www.linkedin.com/in/shaun-rolph-79692b74/).
